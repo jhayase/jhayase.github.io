@@ -12,3 +12,4 @@ Hi! I'm a 4<sup>th</sup> year PhD student at the [Paul G. Allen School of Comput
 
 This past summer (2023), I was a Google Student Researcher working with [Nicholas Carlini](https://nicholas.carlini.com/).
 
+In my free time, I enjoy photography and [coding for fun](https://github.com/PythonNut/).
