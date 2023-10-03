@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jonathan Hayase"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Jonathan Hayase is a 4th year PhD student at the [Paul G. Allen School of Computer Science & Engineering ](https://www.cs.washington.edu/) advised by [Sewoong Oh](https://homes.cs.washington.edu/~sewoong/).
+Hi! I'm a 4<sup>th</sup> year PhD student at the [Paul G. Allen School of Computer Science & Engineering ](https://www.cs.washington.edu/) advised by [Sewoong Oh](https://homes.cs.washington.edu/~sewoong/). I am mainly insterested in security and privacy in Machine Learning.
+
+This past summer (2023), I was a Google Student Researcher working with [Nicholas Carlini](https://nicholas.carlini.com/).
+
