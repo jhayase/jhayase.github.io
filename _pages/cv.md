@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-You can download my latest CV [here](http://academicpages.github.io/files/cv.pdf)
+You can download my latest CV [here](http://jhayase.github.io/files/cv.pdf).
